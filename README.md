@@ -18,6 +18,5 @@
 <div align="center"><h3>6</h3></div>
 <div align="center"><img src="public/images/6.png" alt="sixth" width="800" height="400"/></div>
 
-<div align="center"><h3>7</h3></div>
-<div align="center"><img src="public/images/7.png" alt="seventh" width="800" height="400"/></div>
+
 
